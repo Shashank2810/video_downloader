@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>
+        {% block title %}
+            YouTube Downloader
+        {% endblock %}
+    </title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', path='css/style.css') }}">
+
+    {% block head %}
+    {% endblock %}
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- ============================================= -->
+    <!-- Header -->
+    <!-- ============================================= -->
+
+    <header class="header">
+
+        <h1>YouTube Downloader</h1>
+
+        <p class="subtitle">
+            Professional YouTube Downloader powered by yt-dlp
+        </p>
+
+    </header>
+
+    <!-- ============================================= -->
+    <!-- Main Content -->
+    <!-- ============================================= -->
+
+    <main>
+
+        {% block content %}
+        {% endblock %}
+
+    </main>
+
+</div>
+
+<!-- hidden field used by JS to track the URL being analyzed -->
+<input type="hidden" id="currentUrl" value="">
+
+<script src="{{ url_for('static', path='js/app.js') }}"></script>
+
+{% block scripts %}
+{% endblock %}
+
+</body>
+
+</html>

@@ -1,0 +1,960 @@
+2026-07-25 20:53:07.826 | INFO     | app:startup_event:65 - Server started
+2026-07-25 20:53:23.612 | INFO     | app:startup_event:65 - Server started
+2026-07-25 20:55:19.739 | INFO     | app:shutdown_event:74 - Server stopped
+2026-07-25 20:55:20.492 | INFO     | app:startup_event:51 - ============================================================
+2026-07-25 20:55:20.492 | INFO     | app:startup_event:52 - YouTube Downloader v1.0.0
+2026-07-25 20:55:20.493 | INFO     | app:startup_event:53 - Application Started
+2026-07-25 20:55:20.493 | INFO     | app:startup_event:54 - Host : http://127.0.0.1:8000
+2026-07-25 20:55:20.493 | INFO     | app:startup_event:55 - Downloads : C:\yu_project\youtube-downloader\downloads
+2026-07-25 20:55:20.493 | INFO     | app:startup_event:56 - ============================================================
+2026-07-25 20:55:47.436 | INFO     | app:shutdown_event:65 - Application Stopped
+2026-07-25 20:55:50.165 | INFO     | app:startup_event:51 - ============================================================
+2026-07-25 20:55:50.165 | INFO     | app:startup_event:52 - YouTube Downloader v1.0.0
+2026-07-25 20:55:50.167 | INFO     | app:startup_event:53 - Application Started
+2026-07-25 20:55:50.167 | INFO     | app:startup_event:54 - Host : http://127.0.0.1:8000
+2026-07-25 20:55:50.167 | INFO     | app:startup_event:55 - Downloads : C:\yu_project\youtube-downloader\downloads
+2026-07-25 20:55:50.167 | INFO     | app:startup_event:56 - ============================================================
+2026-07-25 20:57:49.807 | INFO     | app:shutdown_event:65 - Application Stopped
+2026-07-25 20:57:50.377 | INFO     | app:startup_event:51 - ============================================================
+2026-07-25 20:57:50.378 | INFO     | app:startup_event:52 - YouTube Downloader v1.0.0
+2026-07-25 20:57:50.378 | INFO     | app:startup_event:53 - Application Started
+2026-07-25 20:57:50.378 | INFO     | app:startup_event:54 - Host : http://127.0.0.1:8000
+2026-07-25 20:57:50.378 | INFO     | app:startup_event:55 - Downloads : C:\yu_project\youtube-downloader\downloads
+2026-07-25 20:57:50.378 | INFO     | app:startup_event:56 - ============================================================
+2026-07-25 20:58:01.621 | INFO     | app:shutdown_event:65 - Application Stopped
+2026-07-25 20:58:02.304 | INFO     | app:startup_event:51 - ============================================================
+2026-07-25 20:58:02.304 | INFO     | app:startup_event:52 - YouTube Downloader v1.0.0
+2026-07-25 20:58:02.305 | INFO     | app:startup_event:53 - Application Started
+2026-07-25 20:58:02.305 | INFO     | app:startup_event:54 - Host : http://127.0.0.1:8000
+2026-07-25 20:58:02.305 | INFO     | app:startup_event:55 - Downloads : C:\yu_project\youtube-downloader\downloads
+2026-07-25 20:58:02.305 | INFO     | app:startup_event:56 - ============================================================
+2026-07-25 20:59:00.160 | INFO     | app:shutdown_event:65 - Application Stopped
+2026-07-25 20:59:00.892 | INFO     | app:startup_event:51 - ============================================================
+2026-07-25 20:59:00.892 | INFO     | app:startup_event:52 - YouTube Downloader v1.0.0
+2026-07-25 20:59:00.893 | INFO     | app:startup_event:53 - Application Started
+2026-07-25 20:59:00.893 | INFO     | app:startup_event:54 - Host : http://127.0.0.1:8000
+2026-07-25 20:59:00.893 | INFO     | app:startup_event:55 - Downloads : C:\yu_project\youtube-downloader\downloads
+2026-07-25 20:59:00.893 | INFO     | app:startup_event:56 - ============================================================
+2026-07-25 20:59:42.541 | INFO     | app:shutdown_event:65 - Application Stopped
+2026-07-25 20:59:43.608 | INFO     | app:startup_event:51 - ============================================================
+2026-07-25 20:59:43.609 | INFO     | app:startup_event:52 - YouTube Downloader v1.0.0
+2026-07-25 20:59:43.609 | INFO     | app:startup_event:53 - Application Started
+2026-07-25 20:59:43.609 | INFO     | app:startup_event:54 - Host : http://127.0.0.1:8000
+2026-07-25 20:59:43.609 | INFO     | app:startup_event:55 - Downloads : C:\yu_project\youtube-downloader\downloads
+2026-07-25 20:59:43.611 | INFO     | app:startup_event:56 - ============================================================
+2026-07-25 21:01:00.170 | INFO     | app:shutdown_event:65 - Application Stopped
+2026-07-25 21:01:01.142 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-25 21:01:01.143 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-25 21:01:01.143 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-25 21:01:01.149 | INFO     | core.database:create_database:91 - Database initialized : C:\yu_project\youtube-downloader\data\history.db
+2026-07-25 21:01:01.151 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-25 21:01:01.151 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-25 21:01:01.153 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-25 21:01:01.153 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-25 21:01:59.574 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-25 21:02:00.472 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-25 21:02:00.473 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-25 21:02:00.473 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-25 21:02:00.476 | INFO     | core.database:create_database:91 - Database initialized : C:\yu_project\youtube-downloader\data\history.db
+2026-07-25 21:02:00.476 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-25 21:02:00.476 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-25 21:02:00.476 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-25 21:02:00.476 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-25 21:02:10.946 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-25 21:02:11.820 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-25 21:02:11.820 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-25 21:02:11.820 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-25 21:02:11.832 | INFO     | core.database:create_database:91 - Database initialized : C:\yu_project\youtube-downloader\data\history.db
+2026-07-25 21:02:11.833 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-25 21:02:11.833 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-25 21:02:11.833 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-25 21:02:11.833 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-25 21:02:31.549 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-25 21:02:32.398 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-25 21:02:32.398 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-25 21:02:32.398 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-25 21:02:32.399 | INFO     | core.database:create_database:91 - Database initialized : C:\yu_project\youtube-downloader\data\history.db
+2026-07-25 21:02:32.400 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-25 21:02:32.400 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-25 21:02:32.400 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-25 21:02:32.400 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-25 21:03:51.953 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-25 21:05:16.904 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-25 21:05:16.904 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-25 21:05:16.905 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-25 21:05:16.947 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-25 21:05:16.947 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-25 21:05:16.948 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-25 21:05:16.948 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-25 21:05:16.948 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-25 21:07:38.694 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-25 21:07:39.648 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-25 21:07:39.648 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-25 21:07:39.649 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-25 21:07:39.665 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-25 21:07:39.667 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-25 21:07:39.668 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-25 21:07:39.668 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-25 21:07:39.669 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-25 21:08:17.291 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-25 21:08:18.113 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-25 21:08:18.113 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-25 21:08:18.114 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-25 21:08:18.125 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-25 21:08:18.125 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-25 21:08:18.127 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-25 21:08:18.127 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-25 21:08:18.127 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-25 21:10:28.921 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-25 21:10:29.808 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-25 21:10:29.809 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-25 21:10:29.809 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-25 21:10:29.816 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-25 21:10:29.816 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-25 21:10:29.816 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-25 21:10:29.817 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-25 21:10:29.817 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-25 21:42:20.783 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-25 21:42:21.660 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-25 21:42:21.660 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-25 21:42:21.660 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-25 21:42:21.667 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-25 21:42:21.667 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-25 21:42:21.667 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-25 21:42:21.668 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-25 21:42:21.669 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 00:54:27.138 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 00:54:28.072 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 00:54:28.073 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 00:54:28.073 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 00:54:28.082 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 00:54:28.082 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 00:54:28.082 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 00:54:28.082 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 00:54:28.082 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 00:54:39.831 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 00:54:40.656 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 00:54:40.657 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 00:54:40.657 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 00:54:40.664 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 00:54:40.664 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 00:54:40.664 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 00:54:40.664 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 00:54:40.664 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 00:55:02.575 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 00:55:03.363 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 00:55:03.363 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 00:55:03.363 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 00:55:03.370 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 00:55:03.371 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 00:55:03.371 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 00:55:03.371 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 00:55:03.372 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 00:55:14.146 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 00:55:15.001 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 00:55:15.001 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 00:55:15.002 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 00:55:15.013 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 00:55:15.013 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 00:55:15.014 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 00:55:15.014 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 00:55:15.014 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 00:55:30.813 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 00:55:31.669 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 00:55:31.671 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 00:55:31.671 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 00:55:31.680 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 00:55:31.681 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 00:55:31.681 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 00:55:31.681 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 00:55:31.681 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 00:55:39.640 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 00:55:40.537 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 00:55:40.538 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 00:55:40.538 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 00:55:40.545 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 00:55:40.546 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 00:55:40.546 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 00:55:40.546 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 00:55:40.546 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 00:55:54.596 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 00:55:55.448 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 00:55:55.448 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 00:55:55.448 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 00:55:55.458 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 00:55:55.458 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 00:55:55.458 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 00:55:55.460 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 00:55:55.460 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 00:57:27.774 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 00:57:28.684 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 00:57:28.684 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 00:57:28.685 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 00:57:28.692 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 00:57:28.692 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 00:57:28.692 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 00:57:28.693 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 00:57:28.693 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 00:57:52.556 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 00:57:53.405 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 00:57:53.406 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 00:57:53.406 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 00:57:53.414 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 00:57:53.414 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 00:57:53.414 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 00:57:53.414 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 00:57:53.415 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 00:58:00.937 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 00:58:01.855 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 00:58:01.855 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 00:58:01.855 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 00:58:01.867 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 00:58:01.868 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 00:58:01.869 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 00:58:01.869 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 00:58:01.870 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:00:09.087 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:00:09.907 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:00:09.908 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:00:09.908 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:00:09.915 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:00:09.915 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:00:09.915 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:00:09.915 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:00:09.915 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:02:59.840 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:03:00.678 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:03:00.678 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:03:00.678 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:03:00.688 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:03:00.688 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:03:00.688 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:03:00.689 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:03:00.689 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:09:09.720 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:09:10.722 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:09:10.722 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:09:10.723 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:09:10.733 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:09:10.733 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:09:10.734 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:09:10.736 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:09:10.736 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:10:37.631 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:10:38.558 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:10:38.558 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:10:38.560 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:10:38.570 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:10:38.571 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:10:38.571 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:10:38.571 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:10:38.572 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:12:04.414 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:12:05.290 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:12:05.291 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:12:05.291 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:12:05.301 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:12:05.301 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:12:05.301 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:12:05.302 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:12:05.302 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:12:18.836 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:12:19.701 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:12:19.702 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:12:19.702 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:12:19.711 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:12:19.711 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:12:19.711 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:12:19.712 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:12:19.714 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:12:30.430 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:12:31.290 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:12:31.290 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:12:31.290 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:12:31.299 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:12:31.299 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:12:31.300 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:12:31.300 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:12:31.300 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:14:10.101 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:14:10.964 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:14:10.965 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:14:10.965 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:14:10.977 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:14:10.977 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:14:10.977 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:14:10.977 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:14:10.977 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:14:19.140 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:14:20.069 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:14:20.069 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:14:20.070 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:14:20.078 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:14:20.078 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:14:20.079 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:14:20.079 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:14:20.079 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:14:54.715 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:14:55.581 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:14:55.581 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:14:55.581 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:14:55.594 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:14:55.594 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:14:55.594 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:14:55.595 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:14:55.595 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:15:03.430 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:15:04.283 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:15:04.284 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:15:04.284 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:15:04.292 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:15:04.292 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:15:04.292 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:15:04.293 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:15:04.293 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:17:47.963 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:17:48.926 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:17:48.926 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:17:48.926 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:17:48.936 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:17:48.936 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:17:48.936 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:17:48.936 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:17:48.938 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:18:32.306 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:18:33.217 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:18:33.218 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:18:33.218 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:18:33.226 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:18:33.226 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:18:33.226 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:18:33.226 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:18:33.226 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:18:44.224 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:18:45.094 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:18:45.094 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:18:45.094 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:18:45.103 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:18:45.104 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:18:45.105 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:18:45.105 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:18:45.105 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:19:33.670 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:19:34.543 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:19:34.544 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:19:34.544 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:19:34.556 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:19:34.557 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:19:34.557 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:19:34.557 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:19:34.559 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:19:56.914 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:19:57.789 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:19:57.789 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:19:57.789 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:19:57.798 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:19:57.799 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:19:57.799 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:19:57.799 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:19:57.800 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:20:05.622 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:20:06.460 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:20:06.460 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:20:06.461 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:20:06.468 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:20:06.469 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:20:06.469 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:20:06.469 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:20:06.469 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:23:00.735 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:23:01.624 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:23:01.625 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:23:01.625 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:23:01.639 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:23:01.639 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:23:01.639 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:23:01.639 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:23:01.641 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:23:14.269 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:23:15.131 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:23:15.132 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:23:15.132 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:23:15.144 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:23:15.144 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:23:15.145 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:23:15.145 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:23:15.145 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:23:45.081 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:23:45.882 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:23:45.883 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:23:45.883 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:23:45.893 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:23:45.893 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:23:45.893 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:23:45.893 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:23:45.893 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:23:54.279 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:23:55.124 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:23:55.124 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:23:55.125 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:23:55.134 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:23:55.134 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:23:55.134 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:23:55.135 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:23:55.135 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:30:02.290 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:30:03.182 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:30:03.182 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:30:03.183 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:30:03.192 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:30:03.192 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:30:03.192 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:30:03.192 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:30:03.193 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:30:11.910 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:30:12.866 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:30:12.868 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:30:12.868 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:30:12.876 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:30:12.876 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:30:12.877 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:30:12.877 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:30:12.877 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:30:57.495 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:30:58.570 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:30:58.570 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:30:58.570 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:30:58.580 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:30:58.580 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:30:58.581 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:30:58.581 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:30:58.581 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:40:42.764 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:40:43.944 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:40:43.945 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:40:43.945 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:40:43.953 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:40:43.954 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:40:43.954 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:40:43.954 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:40:43.954 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:40:54.620 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:40:55.772 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:40:55.773 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:40:55.773 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:40:55.781 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:40:55.781 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:40:55.781 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:40:55.781 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:40:55.781 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:41:10.496 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:41:11.602 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:41:11.602 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:41:11.602 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:41:11.612 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:41:11.612 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:41:11.612 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:41:11.614 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:41:11.614 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:41:32.059 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:41:33.079 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:41:33.080 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:41:33.080 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:41:33.087 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:41:33.087 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:41:33.087 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:41:33.087 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:41:33.087 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:41:38.305 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:41:39.353 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:41:39.354 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:41:39.354 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:41:39.361 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:41:39.362 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:41:39.362 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:41:39.362 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:41:39.362 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:42:10.080 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:49:26.338 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:49:26.338 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:49:26.338 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:49:26.347 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:49:26.347 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:49:26.347 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:49:26.348 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:49:26.348 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:55:54.685 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:55:55.891 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:55:55.892 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:55:55.892 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:55:55.901 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:55:55.902 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:55:55.902 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:55:55.902 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:55:55.902 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:56:07.132 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:56:08.283 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:56:08.283 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:56:08.283 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:56:08.293 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:56:08.293 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:56:08.293 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:56:08.293 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:56:08.293 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:56:36.179 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:56:37.281 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:56:37.281 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:56:37.281 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:56:37.291 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:56:37.291 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:56:37.291 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:56:37.291 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:56:37.291 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:56:45.566 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:56:46.662 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:56:46.662 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:56:46.662 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:56:46.672 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:56:46.672 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:56:46.672 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:56:46.672 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:56:46.672 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:57:45.472 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:57:46.521 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:57:46.522 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:57:46.522 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:57:46.531 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:57:46.531 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:57:46.532 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:57:46.532 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:57:46.532 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:57:54.366 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:57:55.385 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:57:55.385 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:57:55.385 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:57:55.392 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:57:55.392 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:57:55.392 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:57:55.392 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:57:55.392 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:58:31.596 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:58:32.659 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:58:32.661 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:58:32.661 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:58:32.669 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:58:32.669 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:58:32.669 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:58:32.669 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:58:32.670 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 01:58:41.597 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 01:58:42.652 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 01:58:42.653 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 01:58:42.653 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 01:58:42.662 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:58:42.662 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 01:58:42.663 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 01:58:42.663 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 01:58:42.663 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 02:05:48.652 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 02:05:49.912 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 02:05:49.913 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 02:05:49.913 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 02:05:49.924 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:05:49.924 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 02:05:49.924 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:05:49.924 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 02:05:49.925 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 02:06:44.851 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 02:06:45.896 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 02:06:45.896 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 02:06:45.896 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 02:06:45.907 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:06:45.908 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 02:06:45.908 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:06:45.908 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 02:06:45.909 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 02:06:55.828 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 02:06:56.995 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 02:06:56.996 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 02:06:56.996 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 02:06:57.006 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:06:57.006 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 02:06:57.006 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:06:57.007 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 02:06:57.007 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 02:07:32.935 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 02:07:34.038 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 02:07:34.038 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 02:07:34.038 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 02:07:34.049 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:07:34.050 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 02:07:34.050 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:07:34.050 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 02:07:34.050 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 02:07:42.761 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 02:07:43.874 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 02:07:43.874 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 02:07:43.874 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 02:07:43.883 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:07:43.883 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 02:07:43.885 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:07:43.885 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 02:07:43.885 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 02:10:18.078 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 02:10:19.170 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 02:10:19.171 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 02:10:19.171 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 02:10:19.181 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:10:19.182 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 02:10:19.182 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:10:19.182 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 02:10:19.182 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 02:10:29.101 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 02:10:30.210 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 02:10:30.210 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 02:10:30.210 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 02:10:30.217 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:10:30.217 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 02:10:30.217 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:10:30.217 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 02:10:30.218 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 02:11:11.045 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 02:11:12.116 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 02:11:12.117 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 02:11:12.117 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 02:11:12.126 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:11:12.126 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 02:11:12.127 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:11:12.127 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 02:11:12.127 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 02:11:19.419 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 02:11:20.554 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 02:11:20.555 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 02:11:20.555 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 02:11:20.563 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:11:20.563 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 02:11:20.565 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:11:20.565 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 02:11:20.565 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 02:14:26.467 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 02:14:27.531 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 02:14:27.532 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 02:14:27.532 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 02:14:27.541 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:14:27.541 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 02:14:27.541 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:14:27.542 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 02:14:27.542 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 02:15:31.734 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 02:15:32.880 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 02:15:32.880 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 02:15:32.881 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 02:15:32.889 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:15:32.890 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 02:15:32.890 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:15:32.890 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 02:15:32.890 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 02:26:10.239 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 02:37:15.617 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 02:37:15.618 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 02:37:15.618 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 02:37:15.626 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:37:15.626 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 02:37:15.626 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:37:15.627 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 02:37:15.627 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 02:44:33.318 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 02:44:36.542 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 02:44:36.543 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 02:44:36.543 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 02:44:36.549 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:44:36.549 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 02:44:36.549 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:44:36.551 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 02:44:36.551 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 02:48:55.029 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 02:48:56.188 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 02:48:56.190 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 02:48:56.190 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 02:48:56.200 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:48:56.200 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 02:48:56.200 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:48:56.200 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 02:48:56.201 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 02:49:46.286 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 02:49:47.399 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 02:49:47.400 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 02:49:47.401 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 02:49:47.408 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:49:47.409 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 02:49:47.409 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:49:47.409 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 02:49:47.409 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 02:50:44.796 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 02:50:46.280 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 02:50:46.280 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 02:50:46.280 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 02:50:46.289 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:50:46.289 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 02:50:46.289 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:50:46.289 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 02:50:46.289 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 02:51:30.879 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 02:51:32.054 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 02:51:32.054 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 02:51:32.055 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 02:51:32.063 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:51:32.063 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 02:51:32.063 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:51:32.064 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 02:51:32.064 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 02:52:23.876 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 02:52:24.995 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 02:52:24.996 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 02:52:24.996 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 02:52:25.005 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:52:25.005 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 02:52:25.006 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:52:25.006 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 02:52:25.006 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 02:53:14.889 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 02:53:16.079 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 02:53:16.080 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 02:53:16.080 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 02:53:16.089 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:53:16.089 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 02:53:16.090 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:53:16.090 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 02:53:16.090 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 02:55:59.306 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-26 02:56:09.645 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-26 02:56:09.645 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-26 02:56:09.645 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-26 02:56:09.655 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:56:09.656 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-26 02:56:09.656 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-26 02:56:09.656 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-26 02:56:09.656 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-26 09:42:06.738 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-27 00:39:11.141 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-27 00:39:11.141 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-27 00:39:11.141 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-27 00:39:11.149 | INFO     | core.database:create_database:107 - Database initialized: C:\yu_project\youtube-downloader\data\history.db
+2026-07-27 00:39:11.150 | INFO     | app:lifespan:37 - Download Folder : C:\yu_project\youtube-downloader\downloads
+2026-07-27 00:39:11.150 | INFO     | app:lifespan:38 - Database        : C:\yu_project\youtube-downloader\data\history.db
+2026-07-27 00:39:11.150 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-27 00:39:11.150 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-27 01:50:32.154 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-27 01:50:32.155 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-27 01:50:32.156 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-27 01:50:32.278 | INFO     | core.database:create_database:107 - Database initialized: C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 01:50:32.278 | INFO     | app:lifespan:37 - Download Folder : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\downloads
+2026-07-27 01:50:32.279 | INFO     | app:lifespan:38 - Database        : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 01:50:32.279 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-27 01:50:32.281 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-27 02:02:29.095 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-27 02:02:32.736 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-27 02:02:32.736 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-27 02:02:32.736 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-27 02:02:32.752 | INFO     | core.database:create_database:107 - Database initialized: C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:02:32.752 | INFO     | app:lifespan:37 - Download Folder : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\downloads
+2026-07-27 02:02:32.752 | INFO     | app:lifespan:38 - Database        : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:02:32.752 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-27 02:02:32.752 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-27 02:02:47.103 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-27 02:02:49.667 | INFO     | app:lifespan:30 - ======================================================================
+2026-07-27 02:02:49.667 | INFO     | app:lifespan:31 - YouTube Downloader v1.0.0
+2026-07-27 02:02:49.668 | INFO     | app:lifespan:32 - Initializing application...
+2026-07-27 02:02:49.685 | INFO     | core.database:create_database:107 - Database initialized: C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:02:49.685 | INFO     | app:lifespan:37 - Download Folder : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\downloads
+2026-07-27 02:02:49.686 | INFO     | app:lifespan:38 - Database        : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:02:49.686 | INFO     | app:lifespan:39 - Server          : http://127.0.0.1:8000
+2026-07-27 02:02:49.686 | INFO     | app:lifespan:41 - ======================================================================
+2026-07-27 02:03:13.114 | INFO     | app:lifespan:46 - Application stopped.
+2026-07-27 02:03:15.578 | INFO     | app:lifespan:31 - ======================================================================
+2026-07-27 02:03:15.578 | INFO     | app:lifespan:32 - YouTube Downloader v1.0.0
+2026-07-27 02:03:15.578 | INFO     | app:lifespan:33 - Initializing application...
+2026-07-27 02:03:15.595 | INFO     | core.database:create_database:107 - Database initialized: C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:03:15.595 | INFO     | app:lifespan:38 - Download Folder : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\downloads
+2026-07-27 02:03:15.595 | INFO     | app:lifespan:39 - Database        : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:03:15.595 | INFO     | app:lifespan:40 - Server          : http://127.0.0.1:8000
+2026-07-27 02:03:15.606 | WARNING  | app:lifespan:45 - ffmpeg          : NOT FOUND — downloads will use best single-file stream. Install ffmpeg and add it to PATH to enable 1080p+ merged quality.
+2026-07-27 02:03:15.606 | INFO     | app:lifespan:50 - ======================================================================
+2026-07-27 02:03:35.347 | INFO     | app:lifespan:55 - Application stopped.
+2026-07-27 02:03:36.661 | INFO     | app:lifespan:31 - ======================================================================
+2026-07-27 02:03:36.661 | INFO     | app:lifespan:32 - YouTube Downloader v1.0.0
+2026-07-27 02:03:36.661 | INFO     | app:lifespan:33 - Initializing application...
+2026-07-27 02:03:36.672 | INFO     | core.database:create_database:107 - Database initialized: C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:03:36.672 | INFO     | app:lifespan:38 - Download Folder : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\downloads
+2026-07-27 02:03:36.672 | INFO     | app:lifespan:39 - Database        : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:03:36.672 | INFO     | app:lifespan:40 - Server          : http://127.0.0.1:8000
+2026-07-27 02:03:36.677 | WARNING  | app:lifespan:45 - ffmpeg          : NOT FOUND — downloads will use best single-file stream. Install ffmpeg and add it to PATH to enable 1080p+ merged quality.
+2026-07-27 02:03:36.679 | INFO     | app:lifespan:50 - ======================================================================
+2026-07-27 02:26:09.566 | INFO     | app:lifespan:55 - Application stopped.
+2026-07-27 02:26:13.002 | INFO     | app:lifespan:31 - ======================================================================
+2026-07-27 02:26:13.002 | INFO     | app:lifespan:32 - YouTube Downloader v1.0.0
+2026-07-27 02:26:13.002 | INFO     | app:lifespan:33 - Initializing application...
+2026-07-27 02:26:13.007 | INFO     | core.database:create_database:107 - Database initialized: C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:26:13.007 | INFO     | app:lifespan:38 - Download Folder : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\downloads
+2026-07-27 02:26:13.007 | INFO     | app:lifespan:39 - Database        : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:26:13.007 | INFO     | app:lifespan:40 - Server          : http://127.0.0.1:8000
+2026-07-27 02:26:13.007 | WARNING  | app:lifespan:45 - ffmpeg          : NOT FOUND — downloads will use best single-file stream. Install ffmpeg and add it to PATH to enable 1080p+ merged quality.
+2026-07-27 02:26:13.007 | INFO     | app:lifespan:50 - ======================================================================
+2026-07-27 02:26:30.133 | INFO     | app:lifespan:55 - Application stopped.
+2026-07-27 02:26:31.553 | INFO     | app:lifespan:31 - ======================================================================
+2026-07-27 02:26:31.553 | INFO     | app:lifespan:32 - YouTube Downloader v1.0.0
+2026-07-27 02:26:31.553 | INFO     | app:lifespan:33 - Initializing application...
+2026-07-27 02:26:31.553 | INFO     | core.database:create_database:107 - Database initialized: C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:26:31.553 | INFO     | app:lifespan:38 - Download Folder : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\downloads
+2026-07-27 02:26:31.553 | INFO     | app:lifespan:39 - Database        : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:26:31.553 | INFO     | app:lifespan:40 - Server          : http://127.0.0.1:8000
+2026-07-27 02:26:31.569 | WARNING  | app:lifespan:45 - ffmpeg          : NOT FOUND — downloads will use best single-file stream. Install ffmpeg and add it to PATH to enable 1080p+ merged quality.
+2026-07-27 02:26:31.569 | INFO     | app:lifespan:50 - ======================================================================
+2026-07-27 02:27:11.634 | INFO     | app:lifespan:55 - Application stopped.
+2026-07-27 02:27:13.082 | INFO     | app:lifespan:31 - ======================================================================
+2026-07-27 02:27:13.083 | INFO     | app:lifespan:32 - YouTube Downloader v1.0.0
+2026-07-27 02:27:13.083 | INFO     | app:lifespan:33 - Initializing application...
+2026-07-27 02:27:13.095 | INFO     | core.database:create_database:107 - Database initialized: C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:27:13.095 | INFO     | app:lifespan:38 - Download Folder : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\downloads
+2026-07-27 02:27:13.095 | INFO     | app:lifespan:39 - Database        : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:27:13.096 | INFO     | app:lifespan:40 - Server          : http://127.0.0.1:8000
+2026-07-27 02:27:13.100 | WARNING  | app:lifespan:45 - ffmpeg          : NOT FOUND — downloads will use best single-file stream. Install ffmpeg and add it to PATH to enable 1080p+ merged quality.
+2026-07-27 02:27:13.100 | INFO     | app:lifespan:50 - ======================================================================
+2026-07-27 02:27:13.434 | INFO     | app:lifespan:55 - Application stopped.
+2026-07-27 02:27:14.945 | INFO     | app:lifespan:31 - ======================================================================
+2026-07-27 02:27:14.948 | INFO     | app:lifespan:32 - YouTube Downloader v1.0.0
+2026-07-27 02:27:14.948 | INFO     | app:lifespan:33 - Initializing application...
+2026-07-27 02:27:14.955 | INFO     | core.database:create_database:107 - Database initialized: C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:27:14.955 | INFO     | app:lifespan:38 - Download Folder : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\downloads
+2026-07-27 02:27:14.955 | INFO     | app:lifespan:39 - Database        : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:27:14.955 | INFO     | app:lifespan:40 - Server          : http://127.0.0.1:8000
+2026-07-27 02:27:14.957 | WARNING  | app:lifespan:45 - ffmpeg          : NOT FOUND — downloads will use best single-file stream. Install ffmpeg and add it to PATH to enable 1080p+ merged quality.
+2026-07-27 02:27:14.957 | INFO     | app:lifespan:50 - ======================================================================
+2026-07-27 02:27:39.767 | INFO     | app:lifespan:55 - Application stopped.
+2026-07-27 02:27:41.230 | INFO     | app:lifespan:31 - ======================================================================
+2026-07-27 02:27:41.230 | INFO     | app:lifespan:32 - YouTube Downloader v1.0.0
+2026-07-27 02:27:41.230 | INFO     | app:lifespan:33 - Initializing application...
+2026-07-27 02:27:41.245 | INFO     | core.database:create_database:107 - Database initialized: C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:27:41.245 | INFO     | app:lifespan:38 - Download Folder : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\downloads
+2026-07-27 02:27:41.245 | INFO     | app:lifespan:39 - Database        : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:27:41.245 | INFO     | app:lifespan:40 - Server          : http://127.0.0.1:8000
+2026-07-27 02:27:41.247 | WARNING  | app:lifespan:45 - ffmpeg          : NOT FOUND — downloads will use best single-file stream. Install ffmpeg and add it to PATH to enable 1080p+ merged quality.
+2026-07-27 02:27:41.247 | INFO     | app:lifespan:50 - ======================================================================
+2026-07-27 02:27:43.155 | INFO     | app:lifespan:31 - ======================================================================
+2026-07-27 02:27:43.155 | INFO     | app:lifespan:32 - YouTube Downloader v1.0.0
+2026-07-27 02:27:43.155 | INFO     | app:lifespan:33 - Initializing application...
+2026-07-27 02:27:43.163 | INFO     | core.database:create_database:107 - Database initialized: C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:27:43.165 | INFO     | app:lifespan:38 - Download Folder : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\downloads
+2026-07-27 02:27:43.165 | INFO     | app:lifespan:39 - Database        : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:27:43.165 | INFO     | app:lifespan:40 - Server          : http://127.0.0.1:8000
+2026-07-27 02:27:43.173 | WARNING  | app:lifespan:45 - ffmpeg          : NOT FOUND — downloads will use best single-file stream. Install ffmpeg and add it to PATH to enable 1080p+ merged quality.
+2026-07-27 02:27:43.173 | INFO     | app:lifespan:50 - ======================================================================
+2026-07-27 02:28:07.949 | INFO     | app:lifespan:55 - Application stopped.
+2026-07-27 02:28:09.365 | INFO     | app:lifespan:31 - ======================================================================
+2026-07-27 02:28:09.368 | INFO     | app:lifespan:32 - YouTube Downloader v1.0.0
+2026-07-27 02:28:09.368 | INFO     | app:lifespan:33 - Initializing application...
+2026-07-27 02:28:09.378 | INFO     | core.database:create_database:107 - Database initialized: C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:28:09.378 | INFO     | app:lifespan:38 - Download Folder : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\downloads
+2026-07-27 02:28:09.378 | INFO     | app:lifespan:39 - Database        : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:28:09.378 | INFO     | app:lifespan:40 - Server          : http://127.0.0.1:8000
+2026-07-27 02:28:09.381 | WARNING  | app:lifespan:45 - ffmpeg          : NOT FOUND — downloads will use best single-file stream. Install ffmpeg and add it to PATH to enable 1080p+ merged quality.
+2026-07-27 02:28:09.381 | INFO     | app:lifespan:50 - ======================================================================
+2026-07-27 02:28:23.474 | INFO     | app:lifespan:55 - Application stopped.
+2026-07-27 02:28:24.911 | INFO     | app:lifespan:31 - ======================================================================
+2026-07-27 02:28:24.911 | INFO     | app:lifespan:32 - YouTube Downloader v1.0.0
+2026-07-27 02:28:24.911 | INFO     | app:lifespan:33 - Initializing application...
+2026-07-27 02:28:24.919 | INFO     | core.database:create_database:107 - Database initialized: C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:28:24.920 | INFO     | app:lifespan:38 - Download Folder : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\downloads
+2026-07-27 02:28:24.920 | INFO     | app:lifespan:39 - Database        : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:28:24.920 | INFO     | app:lifespan:40 - Server          : http://127.0.0.1:8000
+2026-07-27 02:28:24.922 | WARNING  | app:lifespan:45 - ffmpeg          : NOT FOUND — downloads will use best single-file stream. Install ffmpeg and add it to PATH to enable 1080p+ merged quality.
+2026-07-27 02:28:24.923 | INFO     | app:lifespan:50 - ======================================================================
+2026-07-27 02:28:51.849 | INFO     | app:lifespan:55 - Application stopped.
+2026-07-27 02:28:53.284 | INFO     | app:lifespan:31 - ======================================================================
+2026-07-27 02:28:53.284 | INFO     | app:lifespan:32 - YouTube Downloader v1.0.0
+2026-07-27 02:28:53.284 | INFO     | app:lifespan:33 - Initializing application...
+2026-07-27 02:28:53.287 | INFO     | core.database:create_database:107 - Database initialized: C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:28:53.297 | INFO     | app:lifespan:38 - Download Folder : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\downloads
+2026-07-27 02:28:53.299 | INFO     | app:lifespan:39 - Database        : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:28:53.299 | INFO     | app:lifespan:40 - Server          : http://127.0.0.1:8000
+2026-07-27 02:28:53.299 | WARNING  | app:lifespan:45 - ffmpeg          : NOT FOUND — downloads will use best single-file stream. Install ffmpeg and add it to PATH to enable 1080p+ merged quality.
+2026-07-27 02:28:53.299 | INFO     | app:lifespan:50 - ======================================================================
+2026-07-27 02:29:14.199 | INFO     | app:lifespan:55 - Application stopped.
+2026-07-27 02:29:15.738 | INFO     | app:lifespan:31 - ======================================================================
+2026-07-27 02:29:15.738 | INFO     | app:lifespan:32 - YouTube Downloader v1.0.0
+2026-07-27 02:29:15.738 | INFO     | app:lifespan:33 - Initializing application...
+2026-07-27 02:29:15.738 | INFO     | core.database:create_database:107 - Database initialized: C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:29:15.754 | INFO     | app:lifespan:38 - Download Folder : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\downloads
+2026-07-27 02:29:15.754 | INFO     | app:lifespan:39 - Database        : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:29:15.754 | INFO     | app:lifespan:40 - Server          : http://127.0.0.1:8000
+2026-07-27 02:29:15.754 | WARNING  | app:lifespan:45 - ffmpeg          : NOT FOUND — downloads will use best single-file stream. Install ffmpeg and add it to PATH to enable 1080p+ merged quality.
+2026-07-27 02:29:15.754 | INFO     | app:lifespan:50 - ======================================================================
+2026-07-27 02:29:59.333 | INFO     | app:lifespan:55 - Application stopped.
+2026-07-27 02:30:00.808 | INFO     | app:lifespan:31 - ======================================================================
+2026-07-27 02:30:00.808 | INFO     | app:lifespan:32 - YouTube Downloader v1.0.0
+2026-07-27 02:30:00.808 | INFO     | app:lifespan:33 - Initializing application...
+2026-07-27 02:30:00.816 | INFO     | core.database:create_database:107 - Database initialized: C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:30:00.816 | INFO     | app:lifespan:38 - Download Folder : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\downloads
+2026-07-27 02:30:00.816 | INFO     | app:lifespan:39 - Database        : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:30:00.816 | INFO     | app:lifespan:40 - Server          : http://127.0.0.1:8000
+2026-07-27 02:30:00.816 | WARNING  | app:lifespan:45 - ffmpeg          : NOT FOUND — downloads will use best single-file stream. Install ffmpeg and add it to PATH to enable 1080p+ merged quality.
+2026-07-27 02:30:00.816 | INFO     | app:lifespan:50 - ======================================================================
+2026-07-27 02:31:37.799 | INFO     | app:lifespan:55 - Application stopped.
+2026-07-27 02:31:39.202 | INFO     | app:lifespan:31 - ======================================================================
+2026-07-27 02:31:39.202 | INFO     | app:lifespan:32 - YouTube Downloader v1.0.0
+2026-07-27 02:31:39.206 | INFO     | app:lifespan:33 - Initializing application...
+2026-07-27 02:31:39.207 | INFO     | core.database:create_database:107 - Database initialized: C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:31:39.207 | INFO     | app:lifespan:38 - Download Folder : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\downloads
+2026-07-27 02:31:39.207 | INFO     | app:lifespan:39 - Database        : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:31:39.207 | INFO     | app:lifespan:40 - Server          : http://127.0.0.1:8000
+2026-07-27 02:31:39.207 | WARNING  | app:lifespan:45 - ffmpeg          : NOT FOUND — downloads will use best single-file stream. Install ffmpeg and add it to PATH to enable 1080p+ merged quality.
+2026-07-27 02:31:39.207 | INFO     | app:lifespan:50 - ======================================================================
+2026-07-27 02:31:40.568 | INFO     | app:lifespan:31 - ======================================================================
+2026-07-27 02:31:40.568 | INFO     | app:lifespan:32 - YouTube Downloader v1.0.0
+2026-07-27 02:31:40.568 | INFO     | app:lifespan:33 - Initializing application...
+2026-07-27 02:31:40.581 | INFO     | core.database:create_database:107 - Database initialized: C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:31:40.581 | INFO     | app:lifespan:38 - Download Folder : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\downloads
+2026-07-27 02:31:40.581 | INFO     | app:lifespan:39 - Database        : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:31:40.581 | INFO     | app:lifespan:40 - Server          : http://127.0.0.1:8000
+2026-07-27 02:31:40.581 | WARNING  | app:lifespan:45 - ffmpeg          : NOT FOUND — downloads will use best single-file stream. Install ffmpeg and add it to PATH to enable 1080p+ merged quality.
+2026-07-27 02:31:40.581 | INFO     | app:lifespan:50 - ======================================================================
+2026-07-27 02:40:10.818 | INFO     | app:lifespan:55 - Application stopped.
+2026-07-27 02:40:14.340 | INFO     | app:lifespan:31 - ======================================================================
+2026-07-27 02:40:14.340 | INFO     | app:lifespan:32 - YouTube Downloader v1.0.0
+2026-07-27 02:40:14.340 | INFO     | app:lifespan:33 - Initializing application...
+2026-07-27 02:40:14.340 | INFO     | core.database:create_database:107 - Database initialized: C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:40:14.340 | INFO     | app:lifespan:38 - Download Folder : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\downloads
+2026-07-27 02:40:14.340 | INFO     | app:lifespan:39 - Database        : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:40:14.340 | INFO     | app:lifespan:40 - Server          : http://127.0.0.1:8000
+2026-07-27 02:40:14.359 | WARNING  | app:lifespan:45 - ffmpeg          : NOT FOUND — downloads will use best single-file stream. Install ffmpeg and add it to PATH to enable 1080p+ merged quality.
+2026-07-27 02:40:14.359 | INFO     | app:lifespan:50 - ======================================================================
+2026-07-27 02:41:18.240 | INFO     | app:lifespan:55 - Application stopped.
+2026-07-27 02:41:19.875 | INFO     | app:lifespan:31 - ======================================================================
+2026-07-27 02:41:19.876 | INFO     | app:lifespan:32 - YouTube Downloader v1.0.0
+2026-07-27 02:41:19.876 | INFO     | app:lifespan:33 - Initializing application...
+2026-07-27 02:41:19.883 | INFO     | core.database:create_database:107 - Database initialized: C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:41:19.883 | INFO     | app:lifespan:38 - Download Folder : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\downloads
+2026-07-27 02:41:19.883 | INFO     | app:lifespan:39 - Database        : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:41:19.883 | INFO     | app:lifespan:40 - Server          : http://127.0.0.1:8000
+2026-07-27 02:41:19.886 | WARNING  | app:lifespan:45 - ffmpeg          : NOT FOUND — downloads will use best single-file stream. Install ffmpeg and add it to PATH to enable 1080p+ merged quality.
+2026-07-27 02:41:19.886 | INFO     | app:lifespan:50 - ======================================================================
+2026-07-27 02:53:07.029 | INFO     | app:lifespan:55 - Application stopped.
+2026-07-27 02:53:08.567 | INFO     | app:lifespan:31 - ======================================================================
+2026-07-27 02:53:08.567 | INFO     | app:lifespan:32 - YouTube Downloader v1.0.0
+2026-07-27 02:53:08.567 | INFO     | app:lifespan:33 - Initializing application...
+2026-07-27 02:53:08.567 | INFO     | core.database:create_database:107 - Database initialized: C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:53:08.567 | INFO     | app:lifespan:38 - Download Folder : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\downloads
+2026-07-27 02:53:08.567 | INFO     | app:lifespan:39 - Database        : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:53:08.567 | INFO     | app:lifespan:40 - Server          : http://127.0.0.1:8000
+2026-07-27 02:53:08.567 | WARNING  | app:lifespan:45 - ffmpeg          : NOT FOUND — downloads will use best single-file stream. Install ffmpeg and add it to PATH to enable 1080p+ merged quality.
+2026-07-27 02:53:08.567 | INFO     | app:lifespan:50 - ======================================================================
+2026-07-27 02:53:26.749 | INFO     | app:lifespan:55 - Application stopped.
+2026-07-27 02:53:28.159 | INFO     | app:lifespan:31 - ======================================================================
+2026-07-27 02:53:28.159 | INFO     | app:lifespan:32 - YouTube Downloader v1.0.0
+2026-07-27 02:53:28.159 | INFO     | app:lifespan:33 - Initializing application...
+2026-07-27 02:53:28.168 | INFO     | core.database:create_database:107 - Database initialized: C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:53:28.168 | INFO     | app:lifespan:38 - Download Folder : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\downloads
+2026-07-27 02:53:28.168 | INFO     | app:lifespan:39 - Database        : C:\Users\ShashankBijelwan\.bob\playground\youtube-downloader\data\history.db
+2026-07-27 02:53:28.168 | INFO     | app:lifespan:40 - Server          : http://127.0.0.1:8000
+2026-07-27 02:53:28.173 | WARNING  | app:lifespan:45 - ffmpeg          : NOT FOUND — downloads will use best single-file stream. Install ffmpeg and add it to PATH to enable 1080p+ merged quality.
+2026-07-27 02:53:28.173 | INFO     | app:lifespan:50 - ======================================================================
