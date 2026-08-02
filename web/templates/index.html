@@ -1,0 +1,283 @@
+{% extends "base.html" %}
+
+
+{% block title %}
+YouTube Downloader
+{% endblock %}
+
+
+
+{% block content %}
+
+
+<!-- ============================================== -->
+<!-- ffmpeg status banner (populated by JS)        -->
+<!-- ============================================== -->
+
+<div id="ffmpegBanner" class="ffmpeg-banner hidden"></div>
+
+
+<!-- ============================================== -->
+<!-- SECTION 1: Input                              -->
+<!-- ============================================== -->
+
+<div class="card">
+
+    <h2>Video URL(s)</h2>
+
+    <p class="help-text">
+        Enter one or more YouTube URLs (one URL per line),
+        or upload a .txt file below.
+    </p>
+
+    <textarea
+        id="videoUrls"
+        rows="5"
+        placeholder="https://www.youtube.com/watch?v=xxxxxxxx
+https://youtu.be/yyyyyyyy"
+    ></textarea>
+
+</div>
+
+
+<!-- ============================================== -->
+<!-- SECTION 2: TXT Upload                         -->
+<!-- ============================================== -->
+
+<div class="card">
+
+    <h2>Upload TXT File</h2>
+
+    <p class="help-text">
+        Optional. Upload a .txt file with one URL per line —
+        URLs will be appended to the box above.
+    </p>
+
+    <input type="file" id="txtFile" accept=".txt">
+
+</div>
+
+
+<!-- ============================================== -->
+<!-- SECTION 3: Action buttons (side by side)      -->
+<!-- ============================================== -->
+
+<div class="action-row">
+
+    <!-- Left: single URL analyze -->
+    <div class="card action-card">
+        <h2>Single URL</h2>
+        <p class="help-text">
+            Analyze the <strong>first</strong> URL to preview info
+            and choose a specific codec / quality before downloading.
+        </p>
+        <button id="analyzeBtn" class="primary-btn full-btn">
+            Analyze &amp; Choose Quality
+        </button>
+    </div>
+
+    <!-- Right: batch download -->
+    <div class="card action-card">
+        <h2>Batch Download</h2>
+        <p class="help-text">
+            Download <strong>all URLs</strong> at once using best
+            available quality. Each URL runs as a background job.
+        </p>
+        <button id="batchBtn" class="success-btn full-btn">
+            Download All (Best Quality)
+        </button>
+    </div>
+
+</div>
+
+
+<!-- ============================================== -->
+<!-- Analyzing spinner                             -->
+<!-- ============================================== -->
+
+<div id="loadingCard" class="card center hidden">
+    <p>⏳ Analyzing video information…</p>
+</div>
+
+
+<!-- ============================================== -->
+<!-- Video Information (single URL)                -->
+<!-- ============================================== -->
+
+<div id="videoCard" class="card hidden">
+
+    <h2>Video Information</h2>
+
+    <div class="video-info">
+
+        <img id="thumbnail" class="thumbnail" src="" alt="Thumbnail">
+
+        <div class="video-details">
+
+            <h3 id="videoTitle"></h3>
+
+            <p><strong>Uploader:</strong> <span id="videoUploader"></span></p>
+
+            <p><strong>Duration:</strong> <span id="videoDuration"></span></p>
+
+            <p><strong>Available Codecs:</strong> <span id="videoCodecs"></span></p>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+<!-- ============================================== -->
+<!-- Download Quality (single URL)                 -->
+<!-- ============================================== -->
+
+<div id="downloadCard" class="card hidden">
+
+    <h2>Download Quality</h2>
+
+    <select id="qualitySelect">
+        <option value="best">⭐ Best Quality (Recommended)</option>
+    </select>
+
+    <div style="margin-top:18px;display:flex;gap:12px;flex-wrap:wrap;">
+
+        <button id="downloadBtn" class="success-btn">
+            ⬇ Download This Video
+        </button>
+
+        <button id="cancelBtn" class="danger-btn hidden">
+            ✕ Cancel
+        </button>
+
+        <button id="resetBtn" class="secondary-btn hidden">
+            ↩ Download Another
+        </button>
+
+    </div>
+
+</div>
+
+
+<!-- ============================================== -->
+<!-- Single-URL Progress                           -->
+<!-- ============================================== -->
+
+<div id="progressCard" class="card hidden">
+
+    <h2 id="progressTitle">Download Progress</h2>
+
+    <div class="progress-bar">
+        <div id="progressFill" class="progress-fill"></div>
+    </div>
+
+    <div class="progress-details">
+        <p>Progress : <span id="progressPercent">0%</span></p>
+        <p>Speed : <span id="downloadSpeed">--</span></p>
+        <p>ETA : <span id="downloadEta">--</span></p>
+    </div>
+
+    <p id="progressFilename" class="progress-filename hidden"></p>
+
+</div>
+
+
+<!-- ============================================== -->
+<!-- Status message (single URL)                  -->
+<!-- ============================================== -->
+
+<div id="statusCard" class="card hidden">
+    <p id="statusMessage"></p>
+</div>
+
+
+<!-- ============================================== -->
+<!-- PLAYLIST SECTION                              -->
+<!-- ============================================== -->
+
+<div class="card">
+
+    <h2>Playlist Download</h2>
+
+    <p class="help-text">
+        Paste a YouTube playlist URL — preview its videos,
+        then download everything into a named subfolder.
+    </p>
+
+    <input
+        id="playlistUrl"
+        type="text"
+        class="text-input"
+        placeholder="https://www.youtube.com/playlist?list=PLxxxxxxxx">
+
+    <div style="margin-top:12px;display:flex;gap:10px;flex-wrap:wrap;">
+        <button id="playlistAnalyzeBtn" class="primary-btn">
+            Preview Playlist
+        </button>
+        <button id="playlistDownloadBtn" class="success-btn hidden">
+            ⬇ Download Entire Playlist
+        </button>
+    </div>
+
+</div>
+
+<!-- Playlist loading spinner -->
+<div id="playlistLoadingCard" class="card center hidden">
+    <p>⏳ Fetching playlist info…</p>
+</div>
+
+<!-- Playlist info + video list -->
+<div id="playlistInfoCard" class="card hidden">
+
+    <div class="jobs-header">
+        <h2 id="playlistTitle">Playlist</h2>
+        <span id="playlistMeta" class="jobs-summary"></span>
+    </div>
+
+    <div id="playlistEntries"></div>
+
+</div>
+
+<!-- Playlist download progress -->
+<div id="playlistProgressCard" class="card hidden">
+
+    <h2 id="playlistProgressTitle">Playlist Download Progress</h2>
+
+    <div class="progress-bar">
+        <div id="playlistProgressFill" class="progress-fill"></div>
+    </div>
+
+    <div class="progress-details">
+        <p>Overall  : <span id="playlistProgressPercent">0%</span></p>
+        <p>Videos   : <span id="playlistProgressCount">0 / ?</span></p>
+        <p>Speed    : <span id="playlistSpeed">--</span></p>
+    </div>
+
+    <p id="playlistCurrentFile" class="progress-filename hidden"></p>
+
+</div>
+
+<!-- Playlist status -->
+<div id="playlistStatusCard" class="card hidden">
+    <p id="playlistStatusMsg"></p>
+</div>
+
+
+<!-- ============================================== -->
+<!-- Batch Jobs Queue                              -->
+<!-- ============================================== -->
+
+<div id="jobsCard" class="card hidden">
+
+    <div class="jobs-header">
+        <h2>Download Queue</h2>
+        <span id="jobsSummary" class="jobs-summary"></span>
+    </div>
+
+    <div id="jobsList"></div>
+
+</div>
+
+
+{% endblock %}
